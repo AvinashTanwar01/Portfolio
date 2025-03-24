@@ -109,10 +109,10 @@ export const workData = [
         link:'https://avinashtanwar01.github.io/A3-Tour-and-Travels/'
     },
     {
-        title: 'Brewberry Coffee',
-        description: 'Frontend Development',
-        bgImage: '/coffee.png',
-        link:'https://brewberry.netlify.app/'
+        title: 'Converse-AI',
+        description: 'AI & Full-Stack',
+        bgImage: '/converse.png',
+        link:'https://converse-ai-pied.vercel.app/'
     },
     
 ]

@@ -118,15 +118,15 @@ export const workData = [
 ]
 export const certificateData = [
     {
-        title: 'DSA with C++',
+        title: 'DSA',
         description: 'Udemy',
         bgImage: '/dsac.png',
         link:'https://udemy-certificate.s3.amazonaws.com/pdf/UC-468297a7-6a0d-4aa6-a547-d012db3a3d38.pdf'
     },
     {
-        title: 'Kotlin ',
-        description: 'Coursera',
-        bgImage: '/kotlin.png',
+        title: 'Cloud Computing ',
+        description: 'NPTEL',
+        bgImage: '/cloud.png',
         link:'https://www.coursera.org/account/accomplishments/verify/85G8AB9GNHAK'
     },
     {

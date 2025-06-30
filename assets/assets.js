@@ -127,7 +127,11 @@ export const certificateData = [
         title: 'Cloud Computing ',
         description: 'NPTEL',
         bgImage: '/cloud.png',
+<<<<<<< HEAD
         link:''
+=======
+        link:'https://www.coursera.org/account/accomplishments/verify/85G8AB9GNHAK'
+>>>>>>> b1c02744ee9bfc3f7af7a13cd9d1a348742c0da4
     },
     {
         title: 'Frontend Development',

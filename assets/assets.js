@@ -97,10 +97,10 @@ export const workData = [
         link:'https://github.com/AvinashTanwar01/Expanse-Tracker'
     },
     {
-        title: 'Medi-Call',
-        description: 'WebRtc Development',
-        bgImage: '/call.png',
-        link:'https://avinashtanwar01.github.io/Medi-call/'
+        title: 'Talksync',
+        description: 'WebRtc & MERN Development',
+        bgImage: '/talksync.png',
+        link:'https://talksync-learning.onrender.com/'
     },
     {
         title: 'A3 Tour & Travel',
@@ -118,16 +118,16 @@ export const workData = [
 ]
 export const certificateData = [
     {
-        title: 'DSA with C++',
+        title: 'DSA',
         description: 'Udemy',
         bgImage: '/dsac.png',
         link:'https://udemy-certificate.s3.amazonaws.com/pdf/UC-468297a7-6a0d-4aa6-a547-d012db3a3d38.pdf'
     },
     {
-        title: 'Kotlin ',
-        description: 'Coursera',
-        bgImage: '/kotlin.png',
-        link:'https://www.coursera.org/account/accomplishments/verify/85G8AB9GNHAK'
+        title: 'Cloud Computing ',
+        description: 'NPTEL',
+        bgImage: '/cloud.png',
+        link:''
     },
     {
         title: 'Frontend Development',
